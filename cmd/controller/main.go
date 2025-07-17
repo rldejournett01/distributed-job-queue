@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"distributed-job-queue/pkg/dispatcher"
+	"github.com/rldejournett01/distributed-job-queue/pkg/dispatcher"
 )
 
 func main() {
