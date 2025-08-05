@@ -5,7 +5,7 @@ Small scale, simulated distribution system
 ## Features
 - Task distibution to simulated worker nodes
 - Priority and retry queues
-- Sytem health monitoring (CPU, memory, job logs)
+- System health monitoring (CPU, memory, job logs)
 - Optional CLI or web dashboard
 - Designed for scale and observability
 
